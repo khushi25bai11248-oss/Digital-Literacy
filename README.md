@@ -1,7 +1,6 @@
 # Digital-Literacy-Project
 
 ## Student Details
-- Field	Details
 - Name	: Khushi Kumari
 - Registration No.:	25BAI11248
 - Branch:	CSE (AI & ML)
